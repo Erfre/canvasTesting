@@ -1,5 +1,5 @@
 # Canvas testing
-
+[demo](https://erfre.github.io/canvas_testing/)
 A unfinished game I wrote to expand my understanding of classes, animation and the canvas element.
 
 ## Installation
