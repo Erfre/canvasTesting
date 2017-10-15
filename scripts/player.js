@@ -34,7 +34,7 @@ class payer extends character{
             this.isJumping()
         }
         if (keys[32]) {
-            a.fire();
+           // a.fire();
         }
         if (keys[39] || keys[68]) {
             // right arrow
